@@ -2,11 +2,11 @@
 
 $cart = [[
         "name" => "San pham A",
-        "price" => 20,
+        "price" => 20.25,
     ],
     [
         "name" => "San pham B",
-        "price" => 30,
+        "price" => 30.5,
     ],
     [
         "name" => "San pham C",
@@ -14,7 +14,7 @@ $cart = [[
     ],
     [
         "name" => "San pham D",
-        "price" => 50,
+        "price" => 50.55,
     ],
     [
         "name" => "San pham E",
